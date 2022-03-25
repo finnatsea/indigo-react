@@ -27,7 +27,7 @@
   "dependencies": {
     "@tlon/indigo-light": "^1.0.4",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.1",
+    "styled-components": "^5.3.3",
     "styled-system": "^5.1.5",
     "local-indigo-react": "file:..",
     "yup": "^0.29.3"
