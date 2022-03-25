@@ -21,7 +21,7 @@
   "dependencies": {
     "@reach/menu-button": "^0.10.5",
     "react": "^16.13.1",
-    "tslib": "^2.0.1"
+    "tslib": "^2.3.1"
   },
   "peerDependencies": {
     "styled-components": "^5.1.1",
