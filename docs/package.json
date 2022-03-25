@@ -30,7 +30,7 @@
     "@types/react-router-dom": "^5.1.5",
     "local-indigo-react": "file:..",
     "react-dom": "^16.13.1",
-    "react-live": "^2.2.2",
+    "react-live": "^2.4.1",
     "react-router-dom": "^5.2.0",
     "yup": "^0.29.3"
   },
