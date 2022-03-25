@@ -19,7 +19,7 @@
   "author": "Gavin Atkinson",
   "license": "MIT",
   "dependencies": {
-    "@reach/menu-button": "^0.10.5",
+    "@reach/menu-button": "^0.16.2",
     "react": "^16.13.1",
     "tslib": "^2.0.1"
   },
