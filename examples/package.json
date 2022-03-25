@@ -25,7 +25,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@tlon/indigo-light": "^1.0.4",
+    "@tlon/indigo-light": "^1.0.7",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.1",
     "styled-system": "^5.1.5",
